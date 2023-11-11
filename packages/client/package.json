@@ -14,8 +14,8 @@
   "license": "MIT",
   "dependencies": {
     "@grpc/grpc-js": "~1.7.3",
-    "@temporalio/common": "file:../common",
-    "@temporalio/proto": "file:../proto",
+    "@temporalio/common": "1.8.6",
+    "@temporalio/proto": "1.8.6",
     "abort-controller": "^3.0.0",
     "long": "^5.2.0",
     "uuid": "^8.3.2"
